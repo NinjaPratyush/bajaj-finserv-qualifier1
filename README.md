@@ -1,6 +1,8 @@
-# BFHL Project- By Pratyush Kumar
+# BFHL Project- By Pratyush Kumar(RA2111003010146)
 
-This project is designed to build and deploy a REST API that accepts both GET and POST methods and provides specific responses based on the input, as well as a React-based frontend application to interact with the backend API.
+A project for the Online Test of Bajaj Finserv, where we are required to develop a full-stack solution that processes JSON input, differentiating between Characters, Numbers, and the Highest Alphabet in the input.
+
+ ### Project Link: https://ninjapratyush.github.io/bajaj-finserv-qualifier1/ 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
